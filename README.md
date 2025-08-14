@@ -6,4 +6,5 @@
 6. namun perlu diketahui di arduino ide untuk install librarynya ada menunya jadi nggak seperti di platformio ini.
 7. kemudian ketika mau terhubung dengan aplikasi dalam jarak jauh, anda perlu hosting , nah 3 file yang berekstensi .php silahkan upload ke public_html hosting anda.
 8. untuk konfigurasi api backend nya anda perlu ubah di main.cpp, dan untuk file aplikasi yang saya uplod itu sudah di set ke api backend saya, jadi anda perlu membangun ulang aplikasinya.
+9. untuk folder proyek android studionya silahkan download disini https://drive.google.com/file/d/1laULxA6c-ofxrBWUrfbHv1V8-ePp2xfK/view?usp=sharing . jangan lupa untuk mengubah konfigurasi api nya. 
     
